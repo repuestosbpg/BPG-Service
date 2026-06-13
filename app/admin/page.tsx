@@ -1,0 +1,1 @@
+export default function Admin(){return <h1>Dashboard BPG Service</h1>}
