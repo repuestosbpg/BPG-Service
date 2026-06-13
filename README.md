@@ -1,3 +1,1 @@
-# BPG Service - Fase 1
-
-Base profesional lista para GitHub y Vercel.
+Reemplaza app/page.tsx y app/globals.css. Copia las imágenes a public/. Push a GitHub y Vercel redeplegará automáticamente.
