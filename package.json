@@ -1,0 +1,15 @@
+{
+  "name": "bpg-service-v2",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "@prisma/client": "latest",
+    "mercadopago": "latest"
+  }
+}
