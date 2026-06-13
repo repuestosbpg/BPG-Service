@@ -10,7 +10,12 @@
     "next": "15.0.0",
     "react": "18.3.1",
     "react-dom": "18.3.1",
-    "@prisma/client": "latest",
-    "tailwindcss": "latest"
+    "@prisma/client": "latest"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "@types/react": "^18.3.3",
+    "@types/node": "^22.7.4",
+    "tailwindcss": "^3.4.13"
   }
 }
