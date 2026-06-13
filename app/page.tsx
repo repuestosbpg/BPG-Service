@@ -1,0 +1,1 @@
+export default function Home(){return <main><h1>BPG Service</h1><p>Bienvenido.</p></main>}
