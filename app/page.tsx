@@ -35,7 +35,7 @@ export default function Home() {
   const whatsapp = "56945671898";
 
   return (
-    <main>
+    <main className={poppins.className}>
       <header className="hero">
         <img src="/logo.png" alt="BPG Service" className="logo" />
 
